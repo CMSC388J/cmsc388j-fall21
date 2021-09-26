@@ -3,7 +3,8 @@
 **Assigned**: September 26th, 2021
 
 **Deadline**: October 7th, 2021, 11:59 PM Eastern
-Late deadline: October 10th
+
+**Late deadline**: October 10th
 
 ## Description
 
