@@ -1,10 +1,9 @@
 # P3: Movie Ratings Database
 
-**Assigned**: February 19th, 2021
+**Assigned**: September 26th, 2021
 
-**Deadline**: March 7th, 2021, 11:59 PM Eastern
-(No late deadline)
-
+**Deadline**: October 7th, 2021, 11:59 PM Eastern
+Late deadline: October 10th
 
 ## Description
 
