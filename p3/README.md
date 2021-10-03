@@ -200,7 +200,7 @@ After zipping, submit the zip file to the appropriate Gradescope page. No test r
 
 ## Grading
 
-No test results will be shown when you submit on Gradescope.
+No test results will be shown when you submit on ELMS.
 
 If you don't use MongoDB, you will get a 0 on this project.
 
