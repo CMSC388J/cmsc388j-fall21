@@ -273,7 +273,7 @@ errors are shown when they are supposed to be shown.
 For submission, submit the zipped `p4/` directory.
 **The directory, along with its contents, should be zipped, not the contents of the directory.**
 In other words, when we unzip your file, we should see the `p4/` directory. If you
-have any questions on how to submit, please contact us.
+have any questions on how to submit, please post on Piazza.
 
 If you don't submit according to the instructions above, you may lose **up to 25%** of your
 score on this project.
