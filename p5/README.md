@@ -1,10 +1,10 @@
 # Project 5: Untested Apps? No, Broken Apps.
 
-**Assigned**: Week 9, October 28th, 2020
+**Assigned**: Week 9, November 2nd, 2021
 
-**Due**: Week 11, November 10th, 2020
+**Due**: Week 11, November 14th, 2021
 
-**Late Deadline**: Refer to syllabus for the policy.
+**Late Deadline**: November 17th, 2021
 
 ## Description
 
